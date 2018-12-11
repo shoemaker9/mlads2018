@@ -576,5 +576,5 @@ impute_mean.fit(X_train)
 # In[ ]:
 
 
-# My time management was awful, realized too late that I need to update my conda to use sklearn.impute, ops
+# sklearn.impute.SimpleImputer continue the assignment
 
