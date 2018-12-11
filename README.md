@@ -1,2 +1,2 @@
 # mlads2018
-machine learning
+assignments i had in the machine learning course at a minor in data science 
